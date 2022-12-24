@@ -3,4 +3,4 @@
 Делал по просьбе знакомой для майнора.
 
 
-![gif]("labazer.webm")
+![labazer]("labazer.gif")
