@@ -3,4 +3,4 @@
 Делал по просьбе знакомой для майнора.
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/sacr1ficerq/telegram_bot/edit/main/labazer.gif)
