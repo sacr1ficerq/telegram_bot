@@ -1,2 +1,2 @@
 # LABAZING
-![]("example_photo.jpg")
+![](example_photo.jpg)
