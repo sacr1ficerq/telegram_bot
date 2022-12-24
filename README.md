@@ -3,4 +3,4 @@
 Делал по просьбе знакомой для майнора.
 
 
-![]("labazer.gif")
+![]("https://github.com/sacr1ficerq/telegram_bot/labazer.gif")
